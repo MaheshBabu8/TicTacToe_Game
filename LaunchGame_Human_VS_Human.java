@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class LaunchGame {
+public class LaunchGame_Human_VS_Human {
 
 	public static void main(String[] args) {
 		
